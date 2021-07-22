@@ -16,4 +16,4 @@ print("added one more command in child branch")
 
 # COMMAND ----------
 
-print("creating a merge conflict 5")
+print("creating a merge conflict 6")
