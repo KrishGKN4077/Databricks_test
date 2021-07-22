@@ -13,3 +13,7 @@ print("these changes are done by {0}".format(a))
 # COMMAND ----------
 
 print("added one more command in child branch")
+
+# COMMAND ----------
+
+print("creating a merge conflict 2")
