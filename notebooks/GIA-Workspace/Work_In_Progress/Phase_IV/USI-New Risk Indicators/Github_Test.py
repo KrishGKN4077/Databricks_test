@@ -3,4 +3,9 @@ print("hello world")
 
 # COMMAND ----------
 
-print("the files has been uploaded to github")
+print("I want to test the merge process")
+
+# COMMAND ----------
+
+a = 'krish'
+print("these changes are done by {0}".format(a))
