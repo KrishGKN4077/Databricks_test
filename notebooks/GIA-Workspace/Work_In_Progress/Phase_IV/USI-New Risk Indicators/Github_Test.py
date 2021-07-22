@@ -3,4 +3,4 @@ print("hello world")
 
 # COMMAND ----------
 
-print("the files has been uplaoded to github")
+print("the files has been uploaded to github")
