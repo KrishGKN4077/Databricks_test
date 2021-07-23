@@ -24,7 +24,7 @@ print("creating a merge conflict 6")
 
 # COMMAND ----------
 
-#raman made change
-print(1+2)
+#ramans made change
+print(1+3)
 #Raman finished changes
-# krish made changes
+# krish not made changes
